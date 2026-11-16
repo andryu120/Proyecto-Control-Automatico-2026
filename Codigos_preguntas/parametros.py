@@ -1,0 +1,12 @@
+JC = 0.0766
+JH = 0.2814
+BC = 1.113
+BH = 0.707
+KC = 3.675
+KH = 0.575
+BCF = 33.07
+BHF = 40.00
+BCE = 23.66
+BHE = 30.88
+t_a = 0.03 # en segundos
+t_d = 0.03 # en segundos
