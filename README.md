@@ -39,3 +39,12 @@ BASE_DIR = Path(__file__).resolve().parent
 # Ejemplo de uso con archivos locales
 archivo_datos = BASE_DIR / "mis_datos.npz"
 ```
+
+# 6. Parametros
+
+Los parametros van a estar en el archivo:
+```bash
+parametros.py
+```
+
+Si faltan a;adir o hay que modificar alguno, pueden hacerlo, ojala dejen un comentario noma, eso :>
