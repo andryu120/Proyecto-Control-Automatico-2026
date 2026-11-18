@@ -8,5 +8,7 @@ BCF = 33.07
 BHF = 40.00
 BCE = 23.66
 BHE = 30.88
+B_tri = 23.66
 t_a = 0.03 # en segundos
 t_d = 0.03 # en segundos
+y_2 = 2.904
